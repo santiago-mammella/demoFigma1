@@ -5,7 +5,7 @@ A simple figma demo
 
 ## 🎈 Figma
 
-(https://www.figma.com/file/lQSk0E7VyvCxtAtYZJnPf7/demoFigma1?type=design&node-id=0%3A1&mode=design&t=ry5U3EKWeCwo0Xfi-1)
+https://www.figma.com/file/lQSk0E7VyvCxtAtYZJnPf7/demoFigma1?type=design&node-id=0%3A1&mode=design&t=ry5U3EKWeCwo0Xfi-1
 
 ## 🤲🏻 Feedback
 
