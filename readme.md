@@ -3,6 +3,8 @@
 
 A simple figma demo
 
+#### Click here 👉🏻 [Demo](https://demo-figma1.vercel.app/)
+
 ## 🎈 Figma
 
 https://www.figma.com/file/lQSk0E7VyvCxtAtYZJnPf7/demoFigma1?type=design&node-id=0%3A1&mode=design&t=ry5U3EKWeCwo0Xfi-1
